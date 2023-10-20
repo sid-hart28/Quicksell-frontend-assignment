@@ -1,0 +1,6 @@
+export const GROUPING = "Grouping"
+export const ORDERING = "Ordering" 
+export const STATUS = "Status"
+export const USER = "User"
+export const PRIORITY = "Priority"
+export const TITLE = "Title"
